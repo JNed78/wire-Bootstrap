@@ -1,0 +1,1 @@
+Pour faire marcher le site, télécharger le dossier, ensuite il faut juste double-cliquez sur le fichier qui s'appelle "page.html" puis normalement cela va vous redirigez dans le navigateur.
